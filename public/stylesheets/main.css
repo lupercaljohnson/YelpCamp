@@ -1,0 +1,27 @@
+.thumbnail img {
+	width: 100%;
+}
+
+.thumbnail {
+	padding: 0;
+}
+.delete-form {
+	display: inline;
+}
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+	width: 75%;
+  text-align: center;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+
+}
